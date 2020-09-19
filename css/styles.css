@@ -1,0 +1,21 @@
+h3{
+  color: #006a71;
+  font-family: roboto;
+}
+h1{
+  color: #006a71;
+  font-family: roboto;
+}
+body{
+  color: #ff7e67;
+  font-family: roboto;
+  background-color: #ecf4f3;
+}
+
+hr{
+  border-style: dotted none none;
+  height: 10px;
+  border-width: 5px;
+  width: 20%;
+  color: #68b0ab;
+}
